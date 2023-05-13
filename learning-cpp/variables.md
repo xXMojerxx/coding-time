@@ -14,7 +14,7 @@ string myText = "Hello World"; //stores text, surrounded by "double quotes"
 
 bool myBoolean = true; //stores values with two states: true or false
 ```
-... Also when calling variable, you can call multiple variable in the same type! By doing this, you can reduce the amount of lines used for called each individual variable. For example:
+Also when calling variable, you can call multiple variable in the same type! By doing this, you can reduce the amount of lines used for called each individual variable. For example:
 ```cpp
 int x, y, z; //Calling x, y, and z in the same variable type. :)
 x = 12;
