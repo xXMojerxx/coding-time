@@ -29,7 +29,7 @@ int personsAge = 17; //int storing the persons age as a number -_-
 ```
 ...but if i also wanted to add a variable that got the name of a person, i would add:
 ```cpp
-int personsAge = 17; //int storing the persons age as a number -_-
-string personsName = "NAME OF PERSON"; //string storing the persons name as text '~'
+int personsAge = 17; //int > storing the persons age as a number -_-
+string personsName = "NAME OF PERSON"; //string > storing the persons name as text '~'
 ```
 This is where the difference of variables add up, c++ gets a bit annoying when creating variables, in which you must keep on trying and learning more and more :P
