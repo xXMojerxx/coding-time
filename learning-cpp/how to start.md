@@ -1,6 +1,6 @@
 # STARTING IN C++ O.o
 > im sorry if this isnt sufficient information, still starting to learn and also dont really know how
-> to make more informational :P
+> to make actuall good tutorials :P
 
 To start coding in c++, there are multiple ways to start off. First, you need a dedicated software witht he correct setup to 
 start coding (in which idk which softwares are good :P). But, once youhave your dedicated software, it looks like:
