@@ -25,7 +25,7 @@ z = 1000;
 ## FOR EXAMPLE:
 If i wanted to create a variable that would store the age of a person, i would do:
 ```cpp
-int personsAge = 17;
+int personsAge = 17; //int storing the persons age as a number -_-
 ```
 ...but if i also wanted to add a variable that got the name of a person, i would add:
 ```cpp
