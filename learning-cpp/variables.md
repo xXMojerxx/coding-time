@@ -1,6 +1,6 @@
 # VARIABLES o_o
 > im sorry if this isnt sufficient information, still starting to learn and also dont really know how
-> to make more informational :P
+> to make actual good tutorials :P
 
 In C++, there are different type of variable. Each variable is indicated by the type of the variable given. So when coding in c++, look out for the different type of variable used! Here are the most basic types of variable:
 ```cpp
