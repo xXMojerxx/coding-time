@@ -7,7 +7,7 @@ double myFloatNum = 5.99; //stores float integers with decimals
 
 char myLetter = 'a'; //stores single character values (only using 'single quotation')
 
-string myText = "Hello World"; //strong text, surrounded by "double quotes"
+string myText = "Hello World"; //stores text, surrounded by "double quotes"
 
 bool myBoolean = true; //stores values with two states: true or false
 ```
