@@ -1,3 +1,4 @@
+# VARIABLES o_o
 In C++, there are different type of variable. Each variable is indicated by the type of the variable given. So when coding in c++, look out for the different type of variable used! Here are the most basic types of variable:
 ```cpp
 int myNum = 5; // stores integers without decimals
