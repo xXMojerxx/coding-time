@@ -20,6 +20,7 @@ int x, y, z; //Calling x, y, and z in the same variable type. :)
 x = 12;
 y = 15;
 z = 1000;
+cout << x + y + z;
 ```
 
 ## FOR EXAMPLE:
