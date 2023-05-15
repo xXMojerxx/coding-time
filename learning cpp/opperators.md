@@ -3,13 +3,13 @@
 > to make actual good tutorials :P
 
 There are 4 different types of opperators; arithmatic opperators, assignement opperators, comparison opperators, and logical operators. Each opperator has a different task to accomplish for a function:
-### ARITHMATIC
+### ```ARITHMATIC``` -> (addition, subtraction, etc.) 
 Arithmatic opperators are used as common mathematical opperations. For example, adding two different variable together or subtracting three variables from one another. Mainly used when having to change the value of varialbes in real time
-### ASSIGNMENT
+### ```ASSIGNMENT``` -> (subtraction assignment, addition assignment, etc.)
 Assignment opperators are used to assign values to variables. Assignment opperators are used to add values to variables or change values to variables without having to create another arithmatic opperator
-### COMPARISON
+### ```COMPARISON``` -> (equal to, less than , greater than, etc.)
 Comparison opperators are used to compare two different values/variables together (used to make decisions). Everytime when you use comparison opperators, you check if the comparison is true or false and returns the respective answer back
-### LOGICAL
+### ```LOGICAL``` -> (logical and, logical or, logical not)
 Logical opperators are used to determin the logic between variables or values. Used to compare the comparison opperators (I honestly dont know what to put here :P)
 ##
 Here are a few examples of the different types of opperators:
