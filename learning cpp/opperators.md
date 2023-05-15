@@ -1,4 +1,7 @@
 # OPPERATORS (╯°□°）╯︵ ┻━┻
+> im sorry if this isnt sufficient information, still starting to learn and also dont really know how
+> to make actual good tutorials :P
+
 There are 4 different types of opperators; arithmatic opperators, assignement opperators, comparison opperators, and logical operators. Each opperator has a different task to accomplish for a function:
 ### ARITHMATIC
 Arithmatic opperators are used as common mathematical opperations. For example, adding two different variable together or subtracting three variables from one another. Mainly used when having to change the value of varialbes in real time
