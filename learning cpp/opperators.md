@@ -1,4 +1,4 @@
-# OPPERATORS (╯°□°）╯︵ ┻━┻
+# OPPERATORS 0~0
 > im sorry if this isnt sufficient information, still starting to learn and also dont really know how
 > to make actual good tutorials :P
 
