@@ -32,7 +32,7 @@ cout << sizeof(listName)/sizeof(int);
 ```
 Using the base list, I can use the code:
 ```cpp
-cout << sizeof(letters)/sizeof(int);//This should output the value of 4 since there are 4 items in the list
+cout << sizeof(letters)/sizeof(int); //This should output the value of 4 since there are 4 items in the list
 ```
 ## MULTIDIMENSIONAL LISTS
 In c++, you can create multidimesional lists. Multidimesional lists are created by having 2 indicators of the amount of items. So if you wanted to create a list that was a 4 X 4 area, it would be:
@@ -43,5 +43,5 @@ char letters[4][4] = { /* The indication of a 4 X 4 list is [4][4] */
   {'i', 'j', 'k', 'l'};
   {'m', 'n', 'o', 'p'};
 };
-cout << letters[1][1] /* To Call specific items in a multidimesional list, indicate what list followed up with the placement */
+cout << letters[1][1] //To Call specific items in a multidimesional list, indicate what list followed up with the placement
 ```
