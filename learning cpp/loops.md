@@ -1,4 +1,7 @@
 # LOOPS ^w^
+> im sorry if this isnt sufficient information, still starting to learn and also dont really know how
+> to make actual good tutorials :P
+
 Loops executes lines of codes until the specific conditions are met. Loops are important in almost all programs due to reducing the amount of lines of code used, reduces the amount of errors, and makes it more readable. Some most common instances of loops in code would be:
 ## FOR LOOPS
 ### ``` FOR LOOPS ```
