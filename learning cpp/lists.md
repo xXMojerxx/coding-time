@@ -2,8 +2,7 @@
 > im sorry if this isnt sufficient information, still starting to learn and also dont really know how
 > to make actual good tutorials :P
 
-List are created similar to variables, you have to indicate the variable type and call the variable name. The only expection to creating a list in c++ is indicating the amount of items inside the list as well as having the
-items in the list around brackets (Its not allways applicable to add an indicator for the amount of items in a list):
+List are created similar to variables, you have to indicate the variable type and call the variable name. The only expection to creating a list in c++ is indicating the amount of items inside the list as well as having the items in the list around brackets (Its not allways applicable to add an indicator for the amount of items in a list):
 ```cpp
 variableType variableName [amount-of-items] = { 
   "item1", 
