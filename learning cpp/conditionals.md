@@ -1,4 +1,7 @@
 # CONDITIONALS :)
+> im sorry if this isnt sufficient information, still starting to learn and also dont really know how
+> to make actual good tutorials :P
+
 Conditionals (Also known as conditional statements) are used to check and compare two different opperators. If the statement returns as true, that means it would run the code function. If the statement returns as false, it would skip the code segment and continute to run as normal.
 Some common statements that are well known are:
 
