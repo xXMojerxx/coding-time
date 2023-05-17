@@ -2,8 +2,7 @@
 > im sorry if this isnt sufficient information, still starting to learn and also dont really know how
 > to make actual good tutorials :P
 
-To start coding in c++, there are multiple ways to start off. First, you need a dedicated software witht he correct setup to 
-start coding (in which idk which softwares are good :P). But, once you have your dedicated software, it looks like:
+To start coding in c++, there are multiple ways to start off. First, you need a dedicated software with the correct setup to start coding (in which idk which softwares are good :P). But, once you have your dedicated software, it looks like:
 ```cpp
 #include <iostream>
 using namespace std;
@@ -16,8 +15,7 @@ int main() {
 }
 ```
 ## 
-This is going to be your basic format for c++. As you go along learning and making your own things, this starting point might become more and more complex due to the "add-ons" you have to put in.
-There are 4 main things to 'memorize' when creating a c++ file (you dont really need to, but its helpful):
+This is going to be your basic format for c++. As you go along learning and making your own things, this starting point might become more and more complex due to the "add-ons" you have to put in. There are 4 main things to 'memorize' when creating a c++ file (you dont really need to, but its helpful):
 ```cpp
 #include <INSERT HERE> //This is the "add-ons" to input more commands to use when coding (called directives)
 
