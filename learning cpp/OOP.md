@@ -19,6 +19,18 @@ class theClass { /* This creates the class with the indicated name */
 ```
 ## To create an object, you first:
 ```cpp
+/* using the same class that was just created... */
 
+int main(){
+  theClass myObj; /* This creates the object within the class */
 
+  /* These change the atributes/values to the class variables  using the object */
+  myObj.myNum = 20; 
+  myObj.myString = "Hello World";
+
+  /* Output the values of the objects as well as the variables */
+  cout << myObj.myNum << "\n"
+  cout << myObj.myString;
+  return 0;
+}
 ```
