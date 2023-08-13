@@ -41,7 +41,7 @@ int main(){
   return 0;
 }
 ```
-^OUTPUT ^
+### OUTPUT
 ```
 First object value: 20
 Second object value: Hello World
