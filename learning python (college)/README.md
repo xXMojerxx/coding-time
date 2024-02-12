@@ -1,1 +1,1 @@
-# Learning Python Through College Classes!!! (>-< )/
+# LEARNING PYTHON THROUGH COLLEGE CLASSES (>-< )/
